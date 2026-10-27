@@ -1,6 +1,6 @@
 # Nakul Pillai
 
-Economics & Data Science graduate (First Class Honours, University of Southampton), starting an MSc in Financial Technology at Imperial College London in August 2026. Currently targeting Quantitative Analyst and Financial Technology roles. The projects below apply statistical and machine learning methods to real market and financial data.
+Economics & Data Science graduate (First Class Honours, University of Southampton), now studying an MSc in Financial Technology at Imperial College London. Currently targeting Quantitative Analyst and Financial Technology roles. The projects below apply statistical and machine learning methods to real market and financial data.
 
 ## Projects
 
